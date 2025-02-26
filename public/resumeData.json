@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Umar Farooq",
+    "occupation": "MERN Stack Developer",
+    "description": "I eat,sleep,code,and repeat",
+    "image": "umar.jpg",
+    "bio": "Hi there! I am Umar Farooq! a MERN Stack Developer with a passion for building interactive and user-friendly web applications that deliver seamless user experiences. Currently in my third year of engineering at RGUKT RK Valley, I have developed a solid foundation in both front-end and back-end technologies, and I am dedicated to creating efficient, scalable web solutions. I enjoy tackling complex challenges, continuously improving my problem-solving abilities, and refining my skills in web development",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "umarfarooqshaik645@gmail.com",
+    "phone": "+91 7780324793",
+    "address": {
+      "street": "Rk Valley",
+      "city": "RGUKT",
+      "state": "AP",
+      "zip": "516329"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1L9-sFmQPMB_EqWXhPVguLGJQqDODnBnB/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/umar-farooq-shaik-7495b6280/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/umar-farooq-shaik",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "RGUKT RK Valley - AP",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2026"
+      }
+    ],
+    "work": [
+      {
+        "company": "Snapsite",
+        "title": "Founder and CEO",
+        "years": "May 2024 - Present",
+        "description": "Giving a service of building websites in a snap"
+      }
+    ],
+    "skills": [
+      {
+        "name": "MERN Stack Development",
+        "level": "100%"
+      },
+      {
+        "name": "Next.js",
+        "level": "100%"
+      },
+      {
+        "name": "Figma",
+        "level": "93%"
+      },
+      {
+        "name": "JAVA",
+        "level": "100%"
+      },
+      {
+        "name": "DSA",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AI Content agent",
+        "category": "",
+        "image": "agent.png"
+      },
+      {
+        "title": "Snapsite - Website Builder(Next.js)",
+        "category": "",
+        "image": "snapsite.png"
+      },
+      {
+        "title": "AI Mock Interviewer(Next.js)",
+        "category": "",
+        "image": "mock.jpeg"
+      },
+      {
+        "title": "SkillBridge-Job portal(React JS)",
+        "category": "",
+        "image": "linkedin.jpeg"
+      },
+      {
+        "title": "Winter Solistice Hackathon Project",
+        "category": "",
+        "image": "winter.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Umar is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Irfan"
+      },
+      {
+        "text": "Learning with Farooq has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Thameem"
+      }
+    ]
+  }
+}
